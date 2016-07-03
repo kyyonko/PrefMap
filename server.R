@@ -1,7 +1,6 @@
 library(shiny)
 library(leaflet)
 library(dplyr)
-library(DT)
 library(ggplot2)
 
 server <- function(input, output) {
